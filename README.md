@@ -5,9 +5,7 @@ I am passionate about technology, and always looking for new learnings. 👩‍�
 I am currently studying Systems Analysis and Development at Universidade Paulista. 💻📚
 
 <div>
-	<a href = "https://github.com/milesoares">
-		<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=milesoares&layout=compact&langs_count=8&theme=radical"/>
-	</a>
+ <a href = "https://github.com/milesoares"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=milesoares&layout=compact&langs_count=8&theme=radical"/></a>
 <div/><br>
 
 How to contact me: 👇

@@ -18,4 +18,5 @@ How to contact me: 👇
   <a href="https://codepen.io/milesoares/followers/" target="_black"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_black"><a/>
    
    ![Snake animation](https://github.com/milesoares/milesoares/blob/output/github-contribution-grid-snake.svg)
+   
 </div>

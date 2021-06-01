@@ -17,6 +17,6 @@ How to contact me: 👇
   <a href="https://www.instagram.com/milena_soaressouza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
   <a href="https://codepen.io/milesoares/followers/" target="_black"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_black"><a/>
    
-   ![Snake animation](https://github.com/milesoares/milesoares/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/milesoares/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
 </div>

@@ -14,7 +14,7 @@ How to contact me: 👇
 <div>
   <a href = "mailto: contatomilena.soaressouza02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
   <a href="https://www.linkedin.com/in/milena-soares-de-souza-b64886188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
-  <a href="https://www.instagram.com/milena_soaressouza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
+  <a href="https://www.instagram.com/milenasoaressouza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
   <a href="https://codepen.io/milesoares/" target="_black"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_black"><a/>
    
    ![Snake animation](https://github.com/milesoares/rafaballerini/blob/output/github-contribution-grid-snake.svg)

@@ -2,7 +2,7 @@
 
 I am passionate about technology, and always looking for new learnings. 👩‍💻 
 
-I am currently studying Systems Analysis and Development at Universidade Paulista. 💻📚
+I have a degree in Systems Analysis and Development at Universidade Paulista. 💻📚
 
 <div>
  <a href = "https://github.com/milesoares"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesoares&layout=compact&langs_count=8&theme=radical"/></a>
@@ -10,7 +10,6 @@ I am currently studying Systems Analysis and Development at Universidade Paulist
 
 How to contact me: 👇
 ##
-
 <div>
   <a href = "mailto: contatomilena.soaressouza02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
   <a href="https://www.linkedin.com/in/milena-soares-de-souza-b64886188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
